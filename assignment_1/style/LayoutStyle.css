@@ -1,0 +1,63 @@
+
+/* 
+  JESWIN K JESSOR
+  991498429
+*/
+
+#“header”
+{
+
+    height: 200px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: lightcoral;
+
+}
+#“navigation”
+{
+    height: 100px;
+    background-color: pink;
+}
+#“content”
+{
+    align-content: center;
+    text-align: center;
+    height: 600px;
+    background-color: cyan;
+}
+#“content” p{
+
+    text-justify: auto;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+#“content” a
+{
+    padding-right: 40px;
+
+
+}
+#“content” img{
+    height:150px;
+    width:150px;
+    border-radius: 10%;
+    padding-top: 30px;
+    padding-left: 50px;
+
+}
+#“footer”
+{
+    height: 100px;
+    background-color: tomato;
+    text-align: center;
+    color: buttonhighlight;
+}
+
+
+
+a:hover{ 
+    color:antiquewhite;
+} 
+
+

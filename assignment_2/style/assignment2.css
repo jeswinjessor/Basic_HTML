@@ -1,0 +1,74 @@
+header
+{
+    margin-bottom: 2px;
+    border: solid 2px yellow;
+    border-radius: 30px;
+    text-align: center;
+    font-family:cursive;
+    color: purple;
+    background: radial-gradient(yellow,red);
+}
+nav
+{
+    margin-bottom: 2px;
+    border: solid 2px yellow;
+    border-radius: 30px;
+    text-align: center;
+    font-family: cursive;
+    color: purple;
+    height: 100px;
+    background: radial-gradient(yellow,red);
+
+}
+
+table{
+    font-family:cursive;
+    margin:auto;
+}
+#head{
+    background: radial-gradient(yellow,red);
+}
+#canada{
+    background-color: red;
+    color: white;
+}
+#australia{
+    background-color: blue;
+    color: red;
+}
+#argentina{
+    background-color:background;
+    color: white;
+}
+#brazil{
+    background-color: green;
+    color: yellow;
+}
+table th,td
+{
+
+    border-style: outset;
+    text-align: center;
+    table-layout: inherit;
+    border: solid 2px yellow;
+    border-radius: 30px;
+}
+img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+table td a{
+    color: white;
+}
+footer
+{
+    border: solid 2px yellow;
+    border-radius: 30px;
+    text-align: center;
+    font-family:cursive;
+    color: purple; 
+    height:160px;
+    background: linear-gradient(yellow,red);
+}

@@ -1,0 +1,132 @@
+
+header
+{
+    margin-bottom: 2px;
+    border: solid 2px green;
+    border-radius: 30px;
+    text-align: center;
+    font-family:cursive;
+    color: purple;
+    background: radial-gradient(green,greenyellow); 
+}
+nav
+{
+    margin-bottom: 2px;
+    border: solid 2px green;
+    border-radius: 30px;
+    text-align: center;
+    font-family: cursive;
+    color: purple;
+    height: 100px;
+    background: linear-gradient(yellowgreen,green);
+}
+section
+{
+    float: left;
+    border:solid 2px green;
+    border-radius: 30px;
+    background-image: url("../image/statistic.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+
+    height: 500px;
+    width: 50%;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    color: purple;
+    margin-bottom: 2px;
+}
+section p{
+    text-align: justify;
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+section h1{
+    border: solid 2px green;
+    border-radius: 30px;
+    text-align: center;
+    font-family:cursive;
+    color: purple;
+    background: radial-gradient(green,greenyellow); 
+}
+article
+{
+    float: left;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    border: solid 2px green;
+    border-radius: 30px;
+    background-image: url("../image/sheridan.jpg");
+    background-size: cover;
+    height: 500px;
+    width: 49%;
+
+
+}
+article dl{
+    padding-left: 150px;
+    font-family:cursive;
+    color: purple;
+
+}
+article h1{
+    border: solid 2px green;
+    border-radius: 30px;
+    height: 45px;
+    text-align: center;
+    font-family:cursive;
+    color: purple;
+    background: radial-gradient(green,greenyellow); 
+}
+article iframe{
+    margin-left: 50px;
+    width: 560px;
+    border: transparent;
+    height: 400px;
+
+}
+
+aside
+{
+    margin-bottom: 2px; 
+    display: inline-block;  
+    border:solid 2px green;
+    border-radius: 30px;
+    height: 600px;
+    width: 100%;
+    background: radial-gradient(green,greenyellow);
+
+}
+aside img
+{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+aside figcaption{
+    font-family:cursive;
+    color: purple;
+
+}
+aside figure{
+    margin-left: 10%;
+    display:inline-block;
+}
+video{
+    border-radius: 30px ;
+}
+
+
+footer
+{
+
+    text-align: center;
+    border: solid 2px green;
+    border-radius: 30px;
+    height: 160px; 
+    font-family:cursive;
+    color: purple;
+    background: linear-gradient(green,greenyellow); 
+}
